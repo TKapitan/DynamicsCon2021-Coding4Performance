@@ -1,0 +1,14 @@
+# ignore vscode config files
+.vscode/rad.json
+
+# ignore .app files
+*.app
+
+# ignore auto-generated xliff
+Translations/*.g.xlf
+
+# ignore AL Object Designer cache
+.vscode/.alcache/*
+.vscode/.altemplates/*
+.alcache/*
+.altemplates/*
